@@ -6,7 +6,7 @@
 - 🌱 Currently learning Java, Spring Boot, and Backend Development.
 - 🚀 Building real-world backend projects to strengthen my software engineering skills.
 - 💡 Interested in Java, REST APIs, SQL, and scalable application development.
-- 📫 Connect with me on LinkedIn: <YOUR_LINKEDIN_PROFILE>
+- 📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/soundaryashet24/)
 
 ---
 
