@@ -10,7 +10,7 @@
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn:** [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
-- 📧 **Email:** soundaryashet24@gmail.com
+- 📧 **Email:** [soundaryashet24@gmail.com](mailto:soundaryashet24@gmail.com)
   
 ---
 
