@@ -6,9 +6,11 @@
 - 🌱 Currently learning Java, Spring Boot, and Backend Development.
 - 🚀 Building real-world backend projects to strengthen my software engineering skills.
 - 💡 Interested in Java, REST APIs, SQL, and scalable application development.
-- 📫 **Let's Connect**
-      LinkedIn: [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
-      Email: soundaryashet24@gmail.com
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
+- 📧 **Email:** soundaryashet24@gmail.com
   
 ---
 
