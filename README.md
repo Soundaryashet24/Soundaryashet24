@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Soundarya 👋
+
+## About Me
+
+- 💼 Software Engineer with 2+ years of industry experience.
+- 🌱 Currently learning Java, Spring Boot, and Backend Development.
+- 🚀 Building real-world backend projects to strengthen my software engineering skills.
+- 💡 Interested in Java, REST APIs, SQL, and scalable application development.
+- 📫 Connect with me on LinkedIn: <YOUR_LINKEDIN_PROFILE>
+
+---
 
 <!--
 **Soundaryashet24/Soundaryashet24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
