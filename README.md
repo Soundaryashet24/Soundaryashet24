@@ -11,6 +11,24 @@
 
 - 💼 **LinkedIn:** [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
 - 📧 **Email:** [soundaryashet24@gmail.com](mailto:soundaryashet24@gmail.com)
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- Java
+- Python
+
+### Backend Development
+- Spring Boot
+- REST APIs
+
+### Database
+- MySQL
+- SQL
+
+### Tools & Technologies
+- Git
+- GitHub
   
 ---
 
