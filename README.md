@@ -1,6 +1,6 @@
-## Hi there, I'm Soundarya 👋
+# Hi there, I'm Soundarya 👋
 
-## About Me
+## 👨‍💻 About Me
 
 - 💼 Software Engineer with 2+ years of industry experience.
 - 🌱 Currently learning Java, Spring Boot, and Backend Development.
@@ -9,28 +9,28 @@
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn:** [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
-- 📧 **Email:** [soundaryashet24@gmail.com](mailto:soundaryashet24@gmail.com)
+- 💼 LinkedIn: [Soundarya Manjunath Shet](https://www.linkedin.com/in/soundaryashet24/)
+- 📧 Email: [soundaryashet24@gmail.com](mailto:soundaryashet24@gmail.com)
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 - Java
 - Python
 
-### Backend Development
+### 🔧 Backend Development
 - Spring Boot
 - REST APIs
 
-### Database
+### 🗄️ Database
 - MySQL
 - SQL
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 - Git
 - GitHub
-  
----
+
+
 
 <!--
 **Soundaryashet24/Soundaryashet24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
